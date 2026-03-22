@@ -37,3 +37,8 @@ streamlit run app.py
 - Interview model default: `gpt-4.1`
 - Transcription model default: `gpt-4o-mini-transcribe`
 - You can change both from sidebar.
+
+## Workspace Recall
+- Canonical repo for this workdir: `https://github.com/vrlnarayana/interview-assist-ai.git`
+- Workdir: `/Users/vrln/StageERP`
+- Preferred env: `.venv311` (Python 3.11)

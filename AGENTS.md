@@ -44,3 +44,9 @@ Use `.venv311` for all development to avoid Python 3.7 compatibility issues.
 - Never hardcode API keys; use sidebar input or `OPENAI_API_KEY` env var.
 - Do not commit candidate-sensitive outputs unless explicitly required.
 - Treat resume/JD files as confidential hiring data.
+
+## Workspace Recall
+- Canonical remote for this folder: `https://github.com/vrlnarayana/interview-assist-ai.git`
+- Local workdir: `/Users/vrln/StageERP`
+- Default branch: `main`
+- Preferred runtime env: `.venv311` (Python 3.11)
